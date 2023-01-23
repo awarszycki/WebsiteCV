@@ -68,6 +68,12 @@ body {
 	background-color: rgba(35, 71, 168, 0.4);
 }
 
+/* main */
+main {
+	margin: 50px auto;
+	width: 1200px;
+}
+
 /* footer */
 footer {
 	height: 80px;
@@ -91,8 +97,6 @@ footer {
 
 .icon-box a:hover {
 	color: royalblue;
-	
-
-	
 }
 
+/* commit */
